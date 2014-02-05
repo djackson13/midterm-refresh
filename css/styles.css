@@ -14,9 +14,7 @@ nav a:link, nav a:visited {
 	
 	padding: 20px 20px 20px 40px;
 }
-nav a:hover, nav a:active {
-	
-}
+
 #first a:hover {
 	background: url("../img/link-1.png") no-repeat left center;
 }
