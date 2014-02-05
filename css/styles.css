@@ -23,3 +23,14 @@ nav a:link, nav a:visited {
 	background: url("../img/grid-bg.png");
 }
 
+/* style images round */
+ aside img,
+ section img {
+ 	border-radius: 10px;
+ }
+ section h3 + img {
+ 	border: 2px solid red;
+ }
+ h3 + p, img + p {
+	color: teal;
+ }
